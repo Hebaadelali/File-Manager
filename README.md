@@ -5,5 +5,5 @@
 - Create symbolic link files.
 - Provides a menu interface that allows the user to pick an option.
 The menu reappears after each action until the user chooses to exit.
-- Includes a manual page
+- Includes a manual page.
 
